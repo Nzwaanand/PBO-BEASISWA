@@ -18,7 +18,7 @@ NAMA Anggota :
 
 
 
-
+A
 # FLOWCHART
 ![image](https://github.com/user-attachments/assets/79596662-36db-43e0-bffc-65bcf3b04b97)
 

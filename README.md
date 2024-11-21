@@ -29,6 +29,7 @@ NAMA Anggota :
 
 
 # ERD
-![image](https://github.com/user-attachments/assets/50387439-70a4-4957-b742-099624d2ccb0)
+![image](https://github.com/user-attachments/assets/50387439-70a4-4957-b742-099624d2ccb0)![Screenshot 2024-11-21 155921](https://github.com/user-attachments/assets/4c48b714-8391-4d8f-b745-57a27309f06d)
+
 
 
